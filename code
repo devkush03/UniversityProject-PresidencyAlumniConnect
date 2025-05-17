@@ -1,1 +1,6 @@
+Clone Frontend:
 
+git clone -b frontend https://github.com/devkush03/UniversityProject-PresidencyAlumniConnect.git
+Clone Backend:
+
+git clone -b backend https://github.com/devkush03/UniversityProject-PresidencyAlumniConnect.git
