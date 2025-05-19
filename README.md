@@ -55,5 +55,4 @@ Clone Backend:
 - git clone -b backend https://github.com/devkush03/UniversityProject-PresidencyAlumniConnect.git
 
 
-
 ⚠️ Note: The complete database schema, collection structure, and seed data scripts are not included in this repository for security and academic integrity reasons.
